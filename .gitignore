@@ -1,0 +1,12 @@
+/.project
+/.idea/*
+/target/
+/consumer.iml
+
+/.idea/libraries/
+.idea/
+consumer.iml
+target/
+/.idea/compiler.xml
+/.idea/modules.xml
+/.idea/vcs.xml
